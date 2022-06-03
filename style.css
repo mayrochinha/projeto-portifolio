@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;400;700&family=Oswald&display=swap');
+
+
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0px;
+}
+
+.header_top{
+    display: flex;
+    background-color: #e0f6ff;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    color: #002b34;
+    
+}
+
+.header_left{
+    max-width: 600px;
+}
+
+.header_left h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.header_right img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
