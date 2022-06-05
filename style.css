@@ -30,3 +30,31 @@ body{
     height: 200px;
     width: 200px;
 }
+
+.middle{
+    display: flex;
+    background-color: #ffe7d8;
+    padding: 20px;
+    justify-content: space-around;
+    color: #002b34;
+}
+
+.experience h1, .education h1, .skills h1{
+    font-size: 40px;
+}
+
+/*.experience{
+    border-right: 1px solid #828282;
+    padding-right: 150px;
+}*/
+
+.middle ul li{
+    margin-bottom: 2px;
+}
+
+.line{
+    background-color: #000;
+    height: inherit;
+    width: 1px;
+
+}
