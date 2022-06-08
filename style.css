@@ -14,7 +14,7 @@ body{
 
 .header_top{
     display: flex;
-    background-color: #e0f6ff;
+    background-color: #eefaff;
     padding: 20px;
     align-items: center;
     justify-content: space-around;
@@ -63,4 +63,24 @@ body{
     height: inherit;
     width: 1px;
 
+}
+
+footer{
+    display: flex;
+    background-color: #002b34;
+    padding: 20px;
+    justify-content: space-around;
+    color: #ffe7d8;
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.ref{
+    padding-right: 125px;
+}
+
+.line2{
+    background-color: #ffe7d8;
+    height: inherit;
+    width: 1px;
 }
