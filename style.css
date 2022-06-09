@@ -49,11 +49,6 @@ body{
     font-size: 40px;
 }
 
-/*.experience{
-    border-right: 1px solid #828282;
-    padding-right: 150px;
-}*/
-
 .middle ul li{
     margin-bottom: 2px;
 }
@@ -69,7 +64,7 @@ footer{
     display: flex;
     background-color: #002b34;
     padding: 20px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     color: #ffe7d8;
     width: 1040px;
     margin: 0 auto;
@@ -77,10 +72,4 @@ footer{
 
 .ref{
     padding-right: 125px;
-}
-
-.line2{
-    background-color: #ffe7d8;
-    height: inherit;
-    width: 1px;
 }
